@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "Greetr - A simple laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Neemias Chagas de Souza Júnior",
+            "email": "neemias.jr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
